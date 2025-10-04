@@ -1,2 +1,2 @@
 # Learning-Git
-I cloned the repo and changed the readMe file.
+I'm changind the ReadMe file by using VSC IDE.
