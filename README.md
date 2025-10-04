@@ -1,2 +1,2 @@
 # Learning-Git
-I'm changind the ReadMe file by using VSC IDE.
+I cloned the repo using Github Desktop
